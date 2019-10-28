@@ -1,2 +1,2 @@
 # MSDNet-for-Medical-Image-Fusion
-ICIG2019
+The 10th International Conference on Image and Graphics(ICIG2019)
