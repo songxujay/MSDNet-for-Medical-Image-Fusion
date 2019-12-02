@@ -1,5 +1,5 @@
 # MSDNet-for-Medical-Image-Fusion
-Accepted in:The 10th International Conference on Image and Graphics(ICIG2019)
+Published in:The 10th International Conference on Image and Graphics(ICIG2019)
 
 [The paper link](https://link.springer.com/chapter/10.1007/978-3-030-34110-7_24)
 
