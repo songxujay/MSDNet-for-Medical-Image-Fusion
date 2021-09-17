@@ -24,6 +24,3 @@ Considering the DenseFuse only works in a single scale, we propose a multi-scale
 
 ## Acknowledgement
 Many thanks to Professor Xiao-Jun Wu and [Dr.Hui Li](https://github.com/hli1221)
-
-
-### If you have any question about this code, feel free to reach me.
